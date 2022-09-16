@@ -5,7 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=mymspuz&style=flat-square&color=blue" alt=""/>
 </div>
 <div id="header" align="center">
-### Hi there 👋
+  
+### Приветствую :fist_raised:
+
 </div>
 
 ---
@@ -51,6 +53,16 @@
 ### Инструменты
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Photoshop" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" title="PhpStorm" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" width="40" height="40" />
+
+---
+
+### :fire: Мой статус :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mymspuz&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mymspuz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mymspuz/mymspuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
