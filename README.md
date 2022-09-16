@@ -1,4 +1,12 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100"/>
+</div>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=mymspuz&style=flat-square&color=blue" alt=""/>
+</div>
+<div id="header" align="center">
 ### Hi there 👋
+</div>
 
 <!--
 **mymspuz/mymspuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
